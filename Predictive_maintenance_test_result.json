@@ -1,0 +1,21 @@
+[
+	{
+		"fields": [
+			"prediction",
+			"probability"
+		],
+		"values": [
+			[
+				"Heat Dissipation Failure",
+				[
+					0.4,
+					0.4,
+					0,
+					0,
+					0,
+					0.19999999999999996
+				]
+			]
+		]
+	}
+]
